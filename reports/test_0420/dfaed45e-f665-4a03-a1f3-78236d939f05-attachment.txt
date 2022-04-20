@@ -1,0 +1,2 @@
+[32mINFO    [0m root:loginApi.py:14 登录的url地址：https://pcintf.vanturnyijian.com/login
+[32mINFO    [0m root:loginApi.py:17 登录用的data数据是：{'phoneNumber': '13215943607', 'smsCode': '123456', 'ctype': '1'}

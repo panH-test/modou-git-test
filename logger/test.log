@@ -1,0 +1,17 @@
+2022-04-20 16:35:47,801 INFO [root] [loginApi.py (__init__:14] - 登录的url地址：https://pcintf.vanturnyijian.com/login
+2022-04-20 16:35:47,803 INFO [root] [loginApi.py (login:17] - 登录用的data数据是：{'phoneNumber': '13215943607', 'smsCode': '123456', 'ctype': '1'}
+2022-04-20 16:42:46,893 INFO [root] [loginApi.py (__init__:13] - 登录的url地址：https://pcintf.vanturnyijian.com/login
+2022-04-20 16:51:01,704 INFO [root] [loginApi.py (__init__:13] - 登录的url地址：https://pcintf.vanturnyijian.com/login
+2022-04-20 17:23:11,412 INFO [root] [loginApi.py (__init__:13] - 登录的url地址：https://pcintf.vanturnyijian.com/login
+2022-04-20 17:32:34,758 INFO [root] [loginApi.py (__init__:13] - 登录的url地址：https://pcintf.vanturnyijian.com/login
+2022-04-20 17:35:02,775 INFO [root] [loginApi.py (__init__:13] - 登录的url地址：https://pcintf.vanturnyijian.com/login
+2022-04-20 17:44:35,013 INFO [root] [loginApi.py (__init__:13] - 登录的url地址：https://pcintf.vanturnyijian.com/login
+2022-04-20 17:47:15,880 INFO [root] [loginApi.py (__init__:13] - 登录的url地址：https://pcintf.vanturnyijian.com/login
+2022-04-20 17:49:20,378 INFO [root] [loginApi.py (__init__:13] - 登录的url地址：https://pcintf.vanturnyijian.com/login
+2022-04-20 17:50:36,102 INFO [root] [loginApi.py (__init__:13] - 登录的url地址：https://pcintf.vanturnyijian.com/login
+2022-04-20 17:56:02,652 INFO [root] [loginApi.py (__init__:13] - 登录的url地址：https://pcintf.vanturnyijian.com/login
+2022-04-20 17:57:21,072 INFO [root] [loginApi.py (__init__:13] - 登录的url地址：https://pcintf.vanturnyijian.com/login
+2022-04-20 17:58:51,070 INFO [root] [loginApi.py (__init__:13] - 登录的url地址：https://pcintf.vanturnyijian.com/login
+2022-04-20 17:59:17,145 INFO [root] [loginApi.py (__init__:13] - 登录的url地址：https://pcintf.vanturnyijian.com/login
+2022-04-20 18:00:53,799 INFO [root] [loginApi.py (__init__:13] - 登录的url地址：https://pcintf.vanturnyijian.com/login
+2022-04-20 18:03:05,444 INFO [root] [loginApi.py (__init__:13] - 登录的url地址：https://pcintf.vanturnyijian.com/login

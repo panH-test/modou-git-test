@@ -1,0 +1,16 @@
+test_login:
+  test_login_001:
+    phoneNumber: "13215943607"
+    smsCode: "1"
+    ctype: "1"
+    exp: "验证码输入不正确"
+  test_login_002:
+    phoneNumber: ""
+    smsCode: "1"
+    ctype: "1"
+    exp: "发送手机号不能为空"
+  test_login_003:
+    phoneNumber: "13215943607"
+    smsCode: "123456"
+    ctype: ""
+    exp: "ctype错误"
